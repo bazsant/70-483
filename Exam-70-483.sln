@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capitulo1", "Capitulo1", "{24B857A2-DC7C-48E4-B4A4-98612377AB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementMultithreadingAsyncProcess", "ImplementMultithreadingAsyncProcess\ImplementMultithreadingAsyncProcess.csproj", "{449B19C3-3767-431D-8DBF-1CB2E5606220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449B19C3-3767-431D-8DBF-1CB2E5606220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449B19C3-3767-431D-8DBF-1CB2E5606220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449B19C3-3767-431D-8DBF-1CB2E5606220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449B19C3-3767-431D-8DBF-1CB2E5606220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{449B19C3-3767-431D-8DBF-1CB2E5606220} = {24B857A2-DC7C-48E4-B4A4-98612377AB9F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0150BBA0-713F-433E-88A3-41C966F93404}
+	EndGlobalSection
+EndGlobal
