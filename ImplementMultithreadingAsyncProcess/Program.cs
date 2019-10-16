@@ -12,9 +12,13 @@ namespace ImplementMultithreadingAsyncProcess
             //Listing1_4.Exec();
             //Listing1_5.Exec();
             //Listing1_6.Exec();
-            Listing1_7.Exec();
+            //Listing1_7.Exec();
+            //Listing1_8.Exec();
+            //Listing1_9.Exec();
+            //Listing1_10.Exec();
+            Listing1_11.Exec();
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
 
     }
