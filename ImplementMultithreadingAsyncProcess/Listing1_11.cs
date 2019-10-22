@@ -3,6 +3,9 @@ using System.Threading.Tasks;
 
 namespace ImplementMultithreadingAsyncProcess
 {
+    /// <summary>
+    /// Scheduling different continuation tasks
+    /// </summary>
     internal class Listing1_11
     {
         internal static void Exec()
