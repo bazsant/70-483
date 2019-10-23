@@ -6,6 +6,7 @@ namespace ImplementMultithreadingAsyncProcess
     {
         static void Main(string[] args)
         {
+            //Understanding threads
             //Listing1_1.Exec();
             //Listing1_2.Exec();
             //Listing1_3.Exec();
@@ -13,6 +14,8 @@ namespace ImplementMultithreadingAsyncProcess
             //Listing1_5.Exec();
             //Listing1_6.Exec();
             //Listing1_7.Exec();
+
+            //Using Tasks
             //Listing1_8.Exec();
             //Listing1_9.Exec();
             //Listing1_10.Exec();
@@ -20,7 +23,14 @@ namespace ImplementMultithreadingAsyncProcess
             //Listing1_12.Exec();
             //Listing1_13.Exec();
             //Listing1_14.Exec();
-            Listing1_15.Exec();
+            //Listing1_15.Exec();
+
+            //Using the Parallel class
+            //Listing1_16.Exec();
+            //Listing1_17.Exec();
+
+            //Using async and await
+
 
             Console.ReadKey();
         }
