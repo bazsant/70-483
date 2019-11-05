@@ -30,7 +30,10 @@ namespace ImplementMultithreadingAsyncProcess
             //Listing1_17.Exec();
 
             //Using async and await
-
+            //Listing1_18.Exec();
+            //Listing1_19.Exec();
+            //Listing1_20.Exec();
+            Listing1_21.Exec();
 
             Console.ReadKey();
         }
