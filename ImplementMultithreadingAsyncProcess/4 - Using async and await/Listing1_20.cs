@@ -11,7 +11,7 @@ namespace ImplementMultithreadingAsyncProcess
     {
         internal static async Task Exec()
         {
-            HttpClient httpClient = new HttpClient();
+            var httpClient = new HttpClient();
 
             string content = await httpClient
                 .GetStringAsync("http://google.com")

@@ -11,7 +11,7 @@ namespace ImplementMultithreadingAsyncProcess
     {
         private static async Task<string> DownloadContent()
         {
-            using (HttpClient client = new HttpClient())
+            using (var client = new HttpClient())
             {
                 string result = await client.GetStringAsync("http://google.com");
                 return result;
