@@ -47,9 +47,17 @@ namespace ImplementMultithreadingAsyncProcess
             //Listing1_26.Exec();
             //Listing1_27.Exec();
 
+            //Using concurrent collections
+            //Listing1_28.Exec();
+            //Listing1_29.Exec();
+            //Listing1_30.Exec();
+            //Listing1_31.Exec();
+            //Listing1_32.Exec();
+            //Listing1_33.Exec();
+            //Listing1_34.Exec();
 
             stopwatch.Stop();
-            Console.WriteLine("Tempo decorrido: {0}",stopwatch.Elapsed.ToString());
+            Console.WriteLine("Tempo decorrido: {0}", stopwatch.Elapsed.ToString());
             Console.ReadKey();
         }
 
